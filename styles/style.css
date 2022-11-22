@@ -37,10 +37,10 @@ body button {
     padding: 20px 0px;
 }
 
-#canvas {
+/* #canvas {
   background: url('../images/road.png');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
   border: 3px solid rgb(193, 6, 6);
-}
+} */
